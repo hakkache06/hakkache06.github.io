@@ -20,7 +20,7 @@ export const Banner = () => {
   const [delta, setDelta] = useState(300 - Math.random() * 100);
   const [index, setIndex] = useState(1);
   //Software Engineering Student interested in learning ML and Backend Web Dev
-  const toRotate = [ "Software Engineering Student", "interested in learning", "ML and Backend Web Dev" ];
+  const toRotate = [ "Software Engineering Student", "interested in learning ML and Backend Web Dev", "" ];
   const period = 2000;
 
   useEffect(() => {
