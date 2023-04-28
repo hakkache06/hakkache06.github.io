@@ -6,7 +6,7 @@ import 'react-multi-carousel/lib/styles.css';
 import arrow1 from "../assets/img/arrow1.svg";
 import arrow2 from "../assets/img/arrow2.svg";
 import colorSharp from "../assets/img/color-sharp.png"
-import test from "../assets/img/cv.png";
+import test from "../assets/img/unnamed.jpg";
 
 export const Skills = () => {
   const responsive = {
@@ -35,7 +35,8 @@ export const Skills = () => {
             <div className="row">
                 <div className="col-12">
                     <div className="skill-bx wow zoomIn">
-                        <h2>What i do</h2>
+
+          <h2>What i do</h2>
                         <p>Passionate about changing the world with technology.</p>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                 

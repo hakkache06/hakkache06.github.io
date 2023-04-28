@@ -244,6 +244,11 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   width: 400px;
   height: 400px;
 }
+
+.skill .test{
+  width: 400px;
+  height: 400px;
+}
 .banner .tagline {
   font-weight: 700;
   letter-spacing: 0.8px;

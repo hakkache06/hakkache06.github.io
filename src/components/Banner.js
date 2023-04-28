@@ -62,9 +62,7 @@ export const Banner = () => {
     <section className="banner" id="home">
       <Container>
 
-      <div className="test">
-      <img src={test} alt="Icon" />
-            </div>
+
       
         <Row className="aligh-items-center">
           <Col xs={12} md={6} xl={7}>
@@ -75,17 +73,17 @@ export const Banner = () => {
                   <p>I'm currently student studying Software Engineering at 1337.
 I'm very interested in learning Machine Learning / Deep Learning in a more professional setting and getting more experience in this field.
 I'm also learning more about Web Development using the MERN Stack and looking to improve my skills in Spring Boot Framework.. </p>           
-           
+           <p>              Currently in beta
+</p>
 
               </div>}
-
             </TrackVisibility>
           </Col>
           <Col xs={12} md={6} xl={5}>
             <TrackVisibility>
               {({ isVisible }) =>
                 <div className={isVisible ? "animate__animated animate__zoomIn" : ""}>
-                <img src={headerImg} alt="Header Img"/>
+                                  <img src={test} alt="Icon" />
                 </div>}
             </TrackVisibility>
           </Col>

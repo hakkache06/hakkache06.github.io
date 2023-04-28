@@ -1,5 +1,6 @@
 import { Container, Row, Col } from "react-bootstrap";
 import navIcon1 from "../assets/img/nav-icon1.svg";
+import headerImg from "../assets/img/G1JO.gif";
 
 
 export const Footer = () => {
@@ -9,6 +10,8 @@ export const Footer = () => {
         
         <Row className="align-items-center">
           <Col size={12} sm={6}>
+          <img src={headerImg} alt="Icon" />
+
           </Col>
           <Col size={12} sm={6} className="text-center text-sm-end">
             <div className="social-icon">
