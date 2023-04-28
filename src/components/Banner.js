@@ -4,7 +4,7 @@ import headerImg from "../assets/img/test.gif";
 import { ArrowRightCircle } from 'react-bootstrap-icons';
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
-import test from "../assets/img/cv.png";
+import test from "../assets/img/unnamed.jpg";
 
 
 
@@ -62,6 +62,9 @@ export const Banner = () => {
     <section className="banner" id="home">
       <Container>
 
+      <div className="test">
+      <img src={test} alt="Icon" />
+            </div>
       
         <Row className="aligh-items-center">
           <Col xs={12} md={6} xl={7}>
