@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/Portf/static/css/main.c831efa5.css",
-    "main.js": "/Portf/static/js/main.d10a63a9.js",
+    "main.css": "/Portf/static/css/main.f124217a.css",
+    "main.js": "/Portf/static/js/main.6ba96112.js",
     "static/js/787.fb771931.chunk.js": "/Portf/static/js/787.fb771931.chunk.js",
     "static/media/test.gif": "/Portf/static/media/test.3c543f3270957096b35e.gif",
     "static/media/color-sharp.png": "/Portf/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/unnamed.jpg": "/Portf/static/media/unnamed.d77c16e3b0679c8bde38.jpg",
     "static/media/CentraNo2-Bold.ttf": "/Portf/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/Portf/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/Portf/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
@@ -20,12 +21,12 @@
     "static/media/nav-icon1.svg": "/Portf/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/arrow2.svg": "/Portf/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/Portf/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
-    "main.c831efa5.css.map": "/Portf/static/css/main.c831efa5.css.map",
-    "main.d10a63a9.js.map": "/Portf/static/js/main.d10a63a9.js.map",
+    "main.f124217a.css.map": "/Portf/static/css/main.f124217a.css.map",
+    "main.6ba96112.js.map": "/Portf/static/js/main.6ba96112.js.map",
     "787.fb771931.chunk.js.map": "/Portf/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c831efa5.css",
-    "static/js/main.d10a63a9.js"
+    "static/css/main.f124217a.css",
+    "static/js/main.6ba96112.js"
   ]
 }
