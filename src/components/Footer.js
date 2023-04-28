@@ -15,7 +15,7 @@ export const Footer = () => {
               <a href="https://ma.linkedin.com/in/hakkache-yassine-857362160?trk=public_profile_browsemap"><img src={navIcon1} alt="Icon" /></a>
             </div>
             <p>Copyright 2023. All Rights Reserved</p>
-            <p>Beta</p>
+            <p>Currently in beta</p>
           </Col>
         </Row>
       </Container>
