@@ -22,7 +22,7 @@ export const Banner = () => {
   const [delta, setDelta] = useState(300 - Math.random() * 100);
   const [index, setIndex] = useState(1);
   //Software Engineering Student interested in learning ML and Backend Web Dev
-  const toRotate = [ "Software Engineering Student", "interested in learning ML and Backend Web Dev", "" ];
+  const toRotate = [ "Digital Technologies Architecture Student", "interested in learning ML and Backend Web Dev", "" ];
   const period = 2000;
 
   useEffect(() => {
@@ -70,11 +70,11 @@ export const Banner = () => {
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <h1>{`Hi! I'm Yassine Hakkache`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Web Developer", "Web Designer", "UI/UX Designer" ]'><span className="wrap">{text}</span></span></h1>
-                  <p>I'm currently student studying Software Engineering at 1337.
+                  <p>I am currently a student in Digital Technologies Architecture at <a href="https://1337.ma/en/benguerir/">1337-BG.</a>
 I'm very interested in learning Machine Learning / Deep Learning in a more professional setting and getting more experience in this field.
 I'm also learning more about Web Development using the MERN Stack and looking to improve my skills in Spring Boot Framework.. </p>           
-           <p>              Currently in beta
-</p>
+           <p>Currently in beta</p>
+           <p>Last Updated: 29 April 2023</p>
 
               </div>}
             </TrackVisibility>
