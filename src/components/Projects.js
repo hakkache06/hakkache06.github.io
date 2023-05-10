@@ -11,7 +11,7 @@ export const Projects = () => {
 
   const projects = [
     {
-      //title: "TEST 1",
+      title: "TEST 1",
       description: "ML/DP",
       imgUrl: projImg1,
     },
@@ -36,8 +36,8 @@ export const Projects = () => {
             <TrackVisibility>
               {({ isVisible }) =>
               <div>
-                <h2>Projects</h2>
-                <p></p>
+                <h2>My Project Sample</h2>
+                <p>Test 1</p>
                 <Tab.Container id="projects-tabs" defaultActiveKey="first">
                   <Tab.Content id="slideInUp">
                     <Tab.Pane eventKey="first">

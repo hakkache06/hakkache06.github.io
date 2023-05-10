@@ -1,12 +1,8 @@
-import meter1 from "../assets/img/meter1.svg";
-import meter2 from "../assets/img/meter2.svg";
-import meter3 from "../assets/img/meter3.svg";
+
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
-import arrow1 from "../assets/img/arrow1.svg";
-import arrow2 from "../assets/img/arrow2.svg";
-import colorSharp from "../assets/img/color-sharp.png"
-import test from "../assets/img/unnamed.jpg";
+
+
 
 export const Skills = () => {
   const responsive = {
@@ -38,31 +34,37 @@ export const Skills = () => {
 
           <h2>What i do</h2>
                         <p>Passionate about changing the world with technology.</p>
+                        <p>Tech Stack</p>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
-                
                             <div className="item">
-                                <h5>UI/UX Design</h5>
-                            </div>
-
-                            <div className="item">
-                            <h5>ML/ DL</h5>
-
+                                <h7>C, C++</h7>
                             </div>
                             <div className="item">
-                                <h5>Full Stack Development</h5>
+                                <h7>Java</h7>
                             </div>
                             <div className="item">
-                                <h5>Cloud Infra-Architecture</h5>
+                                <h7>Python</h7>
+                            </div>
+                            <div className="item">
+                                <h7>Node.js, Nest.js</h7>
+                            </div>
+                            <div className="item">
+                                <h7>UML, Merise, Scrum</h7>
+                            </div>
+                            <div className="item">
+                                <h7>PostgresSQL, MongoDB</h7>
+                            </div>
+                            <div className="item">
+                                <h7>Docker, Docker-compose, Git</h7>
                             </div>
                         </Carousel>
-
+                        
                     </div>
-
-                    
                 </div>
-
             </div>
         </div>
+
+
     </section>
   )
 }

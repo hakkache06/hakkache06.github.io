@@ -73,7 +73,8 @@ export const Banner = () => {
                   <p>I am currently a student in Digital Technologies Architecture at <a href="https://1337.ma/en/benguerir/">1337-BG.</a>
 I'm very interested in learning Machine Learning / Deep Learning in a more professional setting and getting more experience in this field.
 I'm also learning more about Web Development using the MERN Stack and looking to improve my skills in Spring Boot Framework.. </p>           
-           <p>Currently in beta</p>
+           <p>I am looking for an Internship in the Web Development field. I've been using a variety of programming languages and technologies, including Java, ShellScript, TypeScript, GIT, Kubernetes, NestJS, Spring Boot, PostgreSQL, Docker, and Docker-compose ...</p>
+           <p>Open to new opportunities : Yes</p>
            <p>Last Updated: 29 April 2023</p>
 
               </div>}
