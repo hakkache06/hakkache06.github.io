@@ -37,25 +37,25 @@ export const Skills = () => {
                         <p>Tech Stack</p>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                             <div className="item">
-                                <h7>C, C++</h7>
+                                <h6>C, C++</h6>
                             </div>
                             <div className="item">
-                                <h7>Java</h7>
+                                <h6>Java</h6>
                             </div>
                             <div className="item">
-                                <h7>Python</h7>
+                                <h6>Python</h6>
                             </div>
                             <div className="item">
-                                <h7>Node.js, Nest.js</h7>
+                                <h6>Node.js, Nest.js</h6>
                             </div>
                             <div className="item">
-                                <h7>UML, Merise, Scrum</h7>
+                                <h6>UML, Merise, Scrum</h6>
                             </div>
                             <div className="item">
-                                <h7>PostgresSQL, MongoDB</h7>
+                                <h6>PostgresSQL, MongoDB</h6>
                             </div>
                             <div className="item">
-                                <h7>Docker, Docker-compose, Git</h7>
+                                <h6>Docker, Docker-compose, Git</h6>
                             </div>
                         </Carousel>
                         

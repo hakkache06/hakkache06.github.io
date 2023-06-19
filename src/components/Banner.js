@@ -4,7 +4,9 @@ import headerImg from "../assets/img/test.gif";
 import { ArrowRightCircle } from 'react-bootstrap-icons';
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
-import test from "../assets/img/unnamed.jpg";
+import test from "../assets/img/cv.png";
+import arana from "../assets/img/unnamed.jpg";
+
 
 
 
@@ -85,9 +87,12 @@ I'm also learning more about Web Development using the MERN Stack and looking to
               {({ isVisible }) =>
                 <div className={isVisible ? "animate__animated animate__zoomIn" : ""}>
                                   <img src={test} alt="Icon" />
+         
                 </div>}
+                
             </TrackVisibility>
           </Col>
+
         </Row>
       </Container>
       
