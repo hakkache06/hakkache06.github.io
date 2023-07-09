@@ -1,6 +1,8 @@
 
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
+import arana from "../assets/img/unnamed.jpg";
+
 
 
 
@@ -31,7 +33,6 @@ export const Skills = () => {
             <div className="row">
                 <div className="col-12">
                     <div className="skill-bx wow zoomIn">
-
           <h2>What i do</h2>
                         <p>Passionate about changing the world with technology.</p>
                         <p>Tech Stack</p>
