@@ -16,6 +16,7 @@ export const Projects = () => {
       title: "1337 SCHOOL PROJECTS",
       description: "Web, Network, Unix, Algorithms",
       imgUrl: projImg3,
+      tag: "hello worlds"
     },
     {
       title: "PERSONAL SIDE PROJECTS",

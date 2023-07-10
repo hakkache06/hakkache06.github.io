@@ -64,8 +64,8 @@ export const Banner = () => {
 I'm very interested in learning Machine Learning / Deep Learning in a more professional setting and getting more experience in this field.
 I'm also learning more about Web Development (Backend) using the NestJS, Django Stack and looking to improve my skills in Spring Boot Framework.. </p>           
            <p>I am looking for an Internship in the Web Development field. I've been using a variety of programming languages and technologies, including Java, ShellScript,  GIT, Kubernetes, NestJS, Spring Boot, PostgreSQL, Docker, and Docker-compose ...</p>
+           <p>Click on the image to view CV</p>
            <p>Open to new opportunities : Yes</p>
-           <p>Last Updated: 29 April 2023</p>
 
               </div>}
             </TrackVisibility>
@@ -74,7 +74,7 @@ I'm also learning more about Web Development (Backend) using the NestJS, Django 
             <TrackVisibility>
               {({ isVisible }) =>
                 <div className={isVisible ? "animate__animated animate__zoomIn" : ""}>
-                                  <img src={arana} alt="Icon" />
+                                 <a href="https://drive.google.com/file/d/1hFAOCg42iGBi-g1H9vo0EfA2lKiEnVuH/view?usp=sharing"> <img src={arana} alt="Icon" /></a>
          
                 </div>}
                 
