@@ -56,7 +56,7 @@ export const Skills = () => {
                                 <h6>PostgresSQL, MongoDB</h6>
                             </div>
                             <div className="item">
-                                <h6>Docker, Docker-compose, Git</h6>
+                                <h6>Docker, Terraform, Git, kubectl</h6>
                             </div>
                         </Carousel>
                         
