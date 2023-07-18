@@ -14,7 +14,7 @@ export const Projects = () => {
   const projects = [
     {
       title: "1337 SCHOOL PROJECTS",
-      description: "Web, Network, Unix, Algorithms",
+      description: "Common Core : Web, Network, Unix, Algorithms",
       imgUrl: projImg3,
       tag: "hello worlds"
     },
@@ -40,10 +40,8 @@ export const Projects = () => {
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn": ""}>
                 <h2>Projects</h2>
-                <p>My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science , Machine Learning projects and deploy them to web applications using cloud infrastructure.</p>
+                <p>my projects makes use of vast variety of latest technology tools.</p>
                 <p></p>
-                <br></br>
-                <br></br>
                 <br></br>
 
                 <Tab.Container id="projects-tabs" defaultActiveKey="first">

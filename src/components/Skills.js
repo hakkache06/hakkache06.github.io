@@ -47,16 +47,16 @@ export const Skills = () => {
                                 <h6>Python</h6>
                             </div>
                             <div className="item">
-                                <h6>Node.js, Nest.js</h6>
+                                <h6>Nest.js,Django,Spring boot</h6>
                             </div>
                             <div className="item">
-                                <h6>UML, Merise, Scrum</h6>
+                                <h6>UML,Merise,Scrum</h6>
                             </div>
                             <div className="item">
-                                <h6>PostgresSQL, MongoDB</h6>
+                                <h6>PostgresSQL,MongoDB</h6>
                             </div>
                             <div className="item">
-                                <h6>Docker, Terraform, Git, kubectl</h6>
+                                <h6>Terraform,Azure,kubectl,Docker,Git</h6>
                             </div>
                         </Carousel>
                         

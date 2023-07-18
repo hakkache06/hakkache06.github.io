@@ -61,7 +61,7 @@ export const Banner = () => {
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <h1>{`Hi! I'm Yassine Hakkache`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Web Developer", "Web Designer", "UI/UX Designer" ]'><span className="wrap">{text}</span></span></h1>
                   <p>I am currently a student in Digital Technologies Architecture at <a href="https://1337.ma/en/benguerir/">1337-BG.</a>
-I'm very interested in learning Machine Learning / Deep Learning in a more professional setting and getting more experience in this field.
+                  I'm very interested in learning System Administration and IT Infrastructure Services in a more professional setting and getting more experience in this field.
 I'm also learning more about Web Development (Backend) using the NestJS, Django Stack and looking to improve my skills in Spring Boot Framework.. </p>           
            <p>I am looking for an Internship in the Web Development field. I've been using a variety of programming languages and technologies, including Java, ShellScript,  GIT, Kubernetes, NestJS, Spring Boot, PostgreSQL, Docker, and Docker-compose ...</p>
            <p>Click on the image to view CV</p>
